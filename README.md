@@ -1,1 +1,1 @@
-# Unknown-C-things
+Basic Questions are solved in C language
